@@ -17,7 +17,8 @@ https://tomjrodrigues.github.io/
 * Times process.
 
 ### Usage: 
+* Download repository.
 * Navigate to `solution.js` in terminal.
 * Ensure Node is installed.
-* Run `node solution.js` with optional arguments (`node solution.js leads.json outputFile.json changeLog.txt`)
+* Run `node solution.js` with optional arguments (`node solution.js leads.json outputFile.json changeLog.txt`).
 * Optional arguments for input file, output file, and changelog file. Defaults are 'leads.json', 'output.json', and 'changeLog.txt'.
